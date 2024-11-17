@@ -1,6 +1,6 @@
 # TextEditorExample
 
-An example project for [Using TextEditor in SwiftUI](https://www.artemnovichkov.com/blog/using-text-editor-in-swiftui) article.
+An example project for [Mastering TextEditor in SwiftUI](https://www.artemnovichkov.com/blog/mastering-text-editor-in-swiftui) article.
 
 <p align="center"/>
   <img src=".github/first.png" width="45%"/>
