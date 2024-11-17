@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -15,11 +15,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		06AC9EA82CE9F42800D9F8AF /* TextEditorExample */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TextEditorExample;
-			sourceTree = "<group>";
-		};
+		06AC9EA82CE9F42800D9F8AF /* TextEditorExample */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = TextEditorExample; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +88,7 @@
 				};
 			};
 			buildConfigurationList = 06AC9EA12CE9F42800D9F8AF /* Build configuration list for PBXProject "TextEditorExample" */;
+			compatibilityVersion = "Xcode 15.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -103,7 +100,6 @@
 			packageReferences = (
 				06AC9EBE2CE9F4F100D9F8AF /* XCRemoteSwiftPackageReference "swiftui-introspect" */,
 			);
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 06AC9EA72CE9F42800D9F8AF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
